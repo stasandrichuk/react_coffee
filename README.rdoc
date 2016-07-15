@@ -7,3 +7,5 @@ in application.rb
 == CAUTION
 
 Do not use // for comment in CoffeeScript. Use # in CoffeeScript.
+
+https://www.airpair.com/reactjs/posts/reactjs-a-guide-for-rails-developers
