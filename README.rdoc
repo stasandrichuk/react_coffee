@@ -1,7 +1,7 @@
 == README
 
 Add 
-<tt>config.react.addons = true<tt> 
+<tt>config.react.addons = true</tt> 
 in application.rb
 
 == CAUTION
